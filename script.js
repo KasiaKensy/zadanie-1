@@ -19,4 +19,4 @@ builder.append("^");
 builder.prepend("^");
 builder.pad("=");
 
-alert(builder);
+console.log(builder);
